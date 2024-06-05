@@ -4,5 +4,5 @@ I believe is possible to identify the consumption pattern of a single user by an
 
 ### The Data
 
-[https://www.kaggle.com/datasets/webdevbadger/international-student-demographics](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+[https://www.kaggle.com/datasets/kartik2112/fraud-detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
